@@ -2,7 +2,7 @@
 {
   "machine":[
       {
-       "id":"machine001&quot",
+       "id":"machine004&quot",
        "machine_name":"Auto Winding Machine",
        "current":0,
        "voltage":12,
@@ -17,7 +17,7 @@
        "idle_monthly":0,
        "idle_yearly":0
       },{
-          "id":"machine004&quot",
+          "id":"machine001&quot",
           "machine_name":"Boiler Machine",
           "current":0,
           "voltage":0,
